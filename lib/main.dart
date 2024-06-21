@@ -20,6 +20,7 @@ class MyApp extends StatelessWidget {
                           Colors.red.shade300,
                           Colors.red.shade300,
                           Colors.white
+                          Colors.black
                         ]
                     )
                 ),
